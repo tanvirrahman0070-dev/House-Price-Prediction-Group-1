@@ -1,8 +1,5 @@
 # House Price Prediction (Group 1)
 
-[![Open In Colab](https://shields.io)](https://google.com)
-
-
 ## Overview
 This project focuses on predicting residential house prices using supervised Machine Learning regression techniques on the classic **Boston Housing Dataset** (Harrison & Rubinfeld, 1978). It explores how structural and neighborhood characteristics relate to median home values to build accurate, reproducible predictive models.
 
